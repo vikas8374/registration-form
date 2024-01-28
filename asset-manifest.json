@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vikas8374/registration-form.git/static/css/main.7d11ed19.css",
+    "main.js": "/vikas8374/registration-form.git/static/js/main.a68fdd3b.js",
+    "static/js/787.eae03de6.chunk.js": "/vikas8374/registration-form.git/static/js/787.eae03de6.chunk.js",
+    "static/media/logo.svg": "/vikas8374/registration-form.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vikas8374/registration-form.git/index.html",
+    "main.7d11ed19.css.map": "/vikas8374/registration-form.git/static/css/main.7d11ed19.css.map",
+    "main.a68fdd3b.js.map": "/vikas8374/registration-form.git/static/js/main.a68fdd3b.js.map",
+    "787.eae03de6.chunk.js.map": "/vikas8374/registration-form.git/static/js/787.eae03de6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d11ed19.css",
+    "static/js/main.a68fdd3b.js"
+  ]
+}
